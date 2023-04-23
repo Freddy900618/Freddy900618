@@ -15,7 +15,7 @@ Graphic agency owner. I have knowledge in graphic design and 3d modelling and re
 |COMMAND | DESCRIPTION|
 | ------ | ------ |
 | ls  | list files and directories |
-| GitHub |name or move files and directories to another location. |
+| rm |name or move files and directories to another location. |
 | date | display currently date|
 | clear | clear screen |
 
