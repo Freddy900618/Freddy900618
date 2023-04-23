@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, I´m Freddy Espinosa Medina #
+## _Industrial designer_ ##
 
-<!--
-**Freddy900618/Freddy900618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Bogota, Colombia
 
-Here are some ideas to get you started:
+Graphic agency owner. I have knowledge in graphic design and 3d modelling and rendering software. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ * ✒  Illustrator
+ * 📸 Photoshop
+ * 🦏 Rhinoceros
+ * 💻 Vray
+ 
+### TERMINAL COMMANDS ###
+ 
+|COMMAND | DESCRIPTION|
+| ------ | ------ |
+| ls  | list files and directories |
+| GitHub |name or move files and directories to another location. |
+| date | display currently date|
+| clear | clear screen |
+
+### USEFUL ALIAS COMMANDS ### 
+
+|ALIAS | COMMAND |
+| ------ | ------ |
+| ls  | list  |
+| cl |clear screen |
+| rm | remove |
