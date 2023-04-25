@@ -3,7 +3,7 @@
 
 🌍 Bogota, Colombia
 
-Co-owner of **CasaEstudio**, a creative agency, specialized in graphic production, branding
+Co-owner of **CasaEstudio**, a creative agency, specialized in graphic production, branding, design and assembly of events and stands.
 
  * ✒  Illustrator
  * 📸 Photoshop
