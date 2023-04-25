@@ -3,7 +3,7 @@
 
 🌍 Bogota, Colombia
 
-Graphic agency owner. I have knowledge in graphic design and 3d modelling and rendering software. 
+Co-owner of **CasaEstudio**, a creative agency, specialized in graphic production, branding
 
  * ✒  Illustrator
  * 📸 Photoshop
